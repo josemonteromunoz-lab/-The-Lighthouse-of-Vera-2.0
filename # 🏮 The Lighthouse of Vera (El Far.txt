@@ -1,0 +1,28 @@
+# 🏮 The Lighthouse of Vera (El Faro de Vera) v3.0
+
+**The Lighthouse of Vera** is an advanced, 360° adaptive AI support system designed for individuals with Down Syndrome and their entire support network.
+
+## ✍️ Authorship & Vision
+This project is an original creation by **José Montero Muñoz** and the **Navegante Omega Group**. 
+
+We believe in the "Architecture of Human Systems" — shifting from a clinical-only perspective to an engineering and neurobiological approach that empowers the individual.
+
+## 📢 Feedback & Professional Contact
+We value your feedback to continue improving this lighthouse. If you are a healthcare professional, a parent, or an expert in neurodiversity, please reach out:
+
+* **LinkedIn:** [José Montero Muñoz - Navegante Omega](https://www.linkedin.com/article/edit/7446886192672829440/)
+* **Organization:** Navegante Omega Group
+
+## 🛠️ Key Features
+* **Dynamic Identity Mapping:** Mandatory handshake protocol to identify the user.
+* **Adaptive UI:** Tailors complexity based on the profile (Friend, Parent, Teacher, or Doctor).
+* **Multilingual & Multicultural:** Real-time adaptation to global languages and local norms.
+* **Clean Interface:** Minimalist output, hiding all internal complex reasoning.
+
+## 🚀 How to Use
+1. Copy the content of `system_instruction.md`.
+2. Paste it into your AI model's "System Instructions".
+3. Start the conversation by saying "Hello".
+
+---
+*Disclaimer: This tool is for support and informational purposes only. Developed by José Montero Muñoz & Navegante Omega Group.*
